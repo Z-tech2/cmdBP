@@ -2,4 +2,4 @@
 :loop
 Set /p cm="%CD%>"
 %cm%
-goto loop
+Goto loop
